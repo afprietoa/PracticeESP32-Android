@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "52853777231",
+    "firebase_url": "https://esp32practica-fa041-default-rtdb.firebaseio.com",
+    "project_id": "esp32practica-fa041",
+    "storage_bucket": "esp32practica-fa041.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52853777231:android:278b9be271f9ad137d1b3a",
+        "android_client_info": {
+          "package_name": "com.example.esp32practica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmamOsAFmM2TwPUs5BrdpyiNkoPG_uNEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
